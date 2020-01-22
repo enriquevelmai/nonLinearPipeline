@@ -1,0 +1,22 @@
+[
+  {
+    "SHOT": [
+      "Layout",
+      "Animation",
+      "CFX",
+      "FX",
+      "Lighting",
+      "Compo",
+      "Editing",
+      "Grading"
+    ],
+    "ASSET": [
+      "Art",
+      "Sculpt",
+      "Model",
+      "Surfacing",
+      "LookDev",
+      "Groom"
+    ]
+  }
+]
